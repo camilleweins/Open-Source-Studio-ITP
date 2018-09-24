@@ -100,7 +100,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 #### Assignment
 * Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
 * Write a short post about the readings above and pull request a link to your post below.
-  * Name: [Title of Post](url)    
+  * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
