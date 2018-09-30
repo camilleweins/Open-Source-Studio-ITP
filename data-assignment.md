@@ -10,8 +10,6 @@
 
 ## Link to your pull request (or repo) below:
 
-* name -- [title of pull request](url)
-
 * emma rae -- [Add list of fictional colors](https://github.com/dariusk/corpora/pull/325)
 * jinzhong yu -- [Add list of country calling codes](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/3)
 * alice -- [adding and updating fictional religions](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/4)
@@ -36,7 +34,7 @@ In addition to the instructions below, you might also find this egghead course u
 2. Open your shell (see [shell workflow video](https://youtu.be/FnkkzgYuXUM?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X)). Configure your git username using the following commands
 
 ```
-git config --global user.name "Your Name" 
+git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
 ```
 
@@ -84,12 +82,12 @@ git add path/to/files/file.json
 
 For a specific directory:
 ```
-git add path/to/files/ 
+git add path/to/files/
 ```
 
 For all files:
 ```
-git add . 
+git add .
 ```
 
 ###  `git commit` to commit your changes.
