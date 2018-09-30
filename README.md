@@ -111,6 +111,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * emma rae norton: [Reflection: EthicalCS, Open Source as structure](https://spaghettimeatballsbecomereallyfrightening.online/oss/reflection-ethicalcs-open-source-as-structure/)
   * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
   * Ahmad Arshad: [Social awareness in OSS] (https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
+  * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
@@ -125,6 +126,10 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks)
 ### Assignment (Due Oct 2)
 * Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Full Instructions](testing-ci-assignment.md).
+* TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks) 
+### Assignment:
+* Add a unit test to the Playground (instructions coming soon).
+* If you are feeling ambitious, set up your own repo with continuous integration.
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
