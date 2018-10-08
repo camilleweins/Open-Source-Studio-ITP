@@ -1,9 +1,17 @@
-# Open Source Data Assignment
+# Unit Testing and CI Assignment
 
 **due Tuesday, October 2**
 
 ## Link to your pull request, repository, or write-up below:
 * Jinzhong: [A Testing Function to ensure links in \*.md are accessible](https://github.com/NHibiki-NYU/UnitTestingCI/pull/1)
+* Wenhe: [Add ReLU function and test](https://github.com/WenheLI/UnitTestingCI/pull/1)
+* James: [Add timer funtion and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/8/)
+* Jiwon: [Add randInt, factorize and 3D distance check functions and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/5)
+* Guillermo: [Add fahrenheit2Celcius function and three tests: first broken and then fixed.](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/6)
+* emma: [Add iThink function and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/9)
+* Nico: [Add Fisher-Yates array shuffle algorithm and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/10)
+* Lin: [Add repeatAction function and test](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/13)
+* Alice: [Testing for myLove function (and many failures D:)](https://github.com/Open-Source-Studio-at-ITP/UnitTestingCI/pull/16)
 
 # Instructions
 
@@ -30,6 +38,4 @@ Here are some resources for the above:
 
 ## Another option: your own repo or another open source project?
 
-You are welcome to set up unit testing and/or continuous integration in a new GitHub repo or contribute a test to another open source project.
-
-
+You are welcome to set up unit testing and/or continuous integration in a new GitHub repository or contribute a test to another open source project.
