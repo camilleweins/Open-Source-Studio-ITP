@@ -50,6 +50,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * James Hosken: [The Three Tenets of Open Source](https://generallyplayful.com/itp/oss/the-three-tenets-of-open-source/)
     * Ahmad Arshad: [My open source experience](https://dev1.ed-projects.nyu.edu/geotools/2018/09/11/ossp-week-1-reflections/)
     * Lin Zhang: [Contempt in Developer Culture](https://linzhangcs.github.io/blog/2018/09/17/importanceofculture/)
+    
+### Outside Collaborator Posts
+* Alfie Chen: [Stepping Into an Open World](https://alfieyfc.github.io/2018/09/25/stepping_into_an_open_world/)
 
 ## Week 2: More Version Control and Project Management, Sept 11
 ### "Open Source Studio" Triage and Discussion
@@ -80,9 +83,12 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
     * Alice Sun: [Software Within the Ecology](http://www.alicehgsun.com/software-within-the-ecology)
     * Ahmad Arshad: [FLOSS Everything](https://dev1.ed-projects.nyu.edu/geotools/2018/09/18/ossp-week-2-reflections/)
     * Guillermo Montecinos: [Open source community and its role in an apolitical era](https://github.com/guillemontecinos/itp_fall_2018_open_source_studio/blob/master/week_2/assignment.md)
-
+    * Luna Olavarría Gallegos: [Myth of Neutrality in Tech](https://wp.nyu.edu/luna/2018/09/16/myth-of-neutrality-in-tech/)
+    * Camille Weins: [PRs and ‘Intellectual Property’](https://medium.com/@camilleweins/prs-and-intellectual-property-2fc455edaf61)
+    * Emma Rae Norton: [Reflection: open source, structure, politics](https://spaghettimeatballsbecomereallyfrightening.online/oss/reading-reflection-open-source-structure-politics/)
+    
 ### Assignment (Due Sept 25)
-  * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Full Instructions](data-assignment.md).
+  * Create an open source dataset and contribute to an existing repository (like our [Corpora "sandbox"](https://github.com/Open-Source-Studio-at-ITP/corpora) or [Corpora](https://github.com/dariusk/corpora) directly!) or create a new one. [Data Assignment Full Instructions](data-assignment.md).
 
 ## Week 3: Code of Conduct / Community, Sept 18
 ### Guest Speaker
@@ -110,7 +116,9 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Jinzhong: [Do we need to clean the environment of Open Source Community](https://yuuno.cc/articles/do-we-need-to-clean-oss-env)
   * emma rae norton: [Reflection: EthicalCS, Open Source as structure](https://spaghettimeatballsbecomereallyfrightening.online/oss/reflection-ethicalcs-open-source-as-structure/)
   * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
-  * Ahmad Arshad: [Social awareness in OSS] (https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
+  * Ahmad Arshad: [Social awareness in OSS](https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
+  * Luna Olavarría Gallegos: [Code of Conduct](https://wp.nyu.edu/luna/2018/09/22/code-of-conduct-reading-response/)
+   
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
 * [dev.to](https://dev.to/)
@@ -124,16 +132,20 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * CircleCI: [Continuous Integration with GitHub](https://youtu.be/0OjEx2UzLUI?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
 * TravisCI: [Automatically running tests before commits with ghooks](https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-automatically-running-tests-before-commits-with-ghooks)
 ### Assignment (Due Oct 2)
-* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Full Instructions](testing-ci-assignment.md).
+* Try breaking, fixing, and/or writing a unit test. Can you run the tests locally? Via continuous integration? [Unit Testing Assignment Full Instructions](testing-ci-assignment.md).
 
 ## Week 5: Documentation and Accessibility, Oct 2
 ### Guest Speaker
 * [Claire Kearney-Volpe](http://www.takinglifeseriously.com/about.html)
-### Accessibility
+* [Intro to Digital Accessibility](https://docs.google.com/presentation/d/1Gjn16bgjeWCnKNmCwW-0cxUpbQXR0TPfjDSTN7TFcRA/edit#slide=id.g421c16c3f6_5_365) slides.
+* [Teach Access](https://teachaccess.github.io/tutorial/#/0)
+### Accessibility Reading
 * [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [Working on the p5 Accessibility Project](https://medium.com/processing-foundation/working-on-the-p5-accessibility-project-58a781575400) by Mathura Govindarajan and Luis Morales-Navarro
 ### Assignment
-  * Contribute documentation to our class project. Test for accessibility.
+* Perform an accessibility audit of a website / open source project. [Accessibility Assignment Full Instructions](accessibility-assignment.md). Due Oct 16.
+
+## No class Oct 9!
 
 ## Week 6: Licensing and Funding, Oct 16
 ### Guest Speaker
@@ -148,9 +160,8 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Funding
   * [What’s Your Open Source Strategy? Here Are 10 Answers…](https://blog.mozilla.org/blog/2018/05/15/whats-your-open-source-strategy-here-are-10-answers/) a research report from Mozilla and Open Tech by Patrick Finch
   * [Funding Open Source the Hard Way](https://youtu.be/HokXBjDS_UA) from Nadia Eghbal, [slides of talk](https://www.slideshare.net/NadiaEghbal/funding-open-source-the-hard-way)
-### Assignment
 
-## Week 7: Project Idea Workshop, Oct 23
+## Week 7: Open Source Project Proposals, Oct 23
 ### Open Source Contributor Programs
 * [Outreachy](https://www.outreachy.org/apply/)
 * [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
@@ -158,21 +169,19 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 ### Reading
   * [Getting into Summer of Code Programs](http://exploreshaifali.github.io/2015/06/08/getting-into-summer-of-code-programs/) by Shaifali
   * [How to write a GSoC Proposal](http://teom.org/blog/kde/how-to-write-a-kick-ass-proposal-for-google-summer-of-code/)
-### Assignment
-* Write a project proposal
 
-## Week 8: Project Proposals, Oct 30
+## Week 8: Project Idea Workshop, Oct 30
+
+## Week 9: Project Proposals, Nov 6
 * Students propose "final projects", ideally collaborations of 2-3 students, a new open source project or contribution to existing open source project?
-
-## Week 9: Project Development Studio, Nov 6
 
 ## Week 10: Project Development Studio, Nov 13
 
 ## Week 11: Project Development Studio, Nov 20
 
-## Week 12: In Progress Presentations, Nov 27
+## Week 12: Project Development Studio, Nov 27
 
-## Week 13: "User Testing" Workshop, Dec 4
+## Week 13: Project Development Studio, Dec 4
 
 ## Week 14: Final Presentations, Dec 11
 In addition to completing a final project for the course and presenting it in class as a group, each student is required to write a written reflection.
